@@ -1,0 +1,17 @@
+.company-header-row {
+  padding-top: 16px;
+  padding-bottom: 8px;
+}
+
+.company-working-period {
+  font-size: 16pt;
+  float: right;
+}
+
+.company-title {
+  font-size: 16pt;
+}
+
+.company-position {
+  font-size: 16pt;
+}

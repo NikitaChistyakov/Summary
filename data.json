@@ -1,0 +1,190 @@
+{
+  "mainInfo": {
+    "fullName": "Chistyakov Nikita Viktorovich",
+    "imageUrl": "photo.jpg",
+    "email": "nikitachistyakovmainacc@gmail.com",
+    "phone": "+375333173883",
+    "linkedin": "https://www.linkedin.com/in/nikitachistyakov/",
+    "github": "https://github.com/NikitaChistyakov"
+  },
+  "primarySkills": [
+    ".NET (CSharp)",
+    "ASP.NET WEB + API Framework / Core",
+    "NHibernate / Entity Framework / Dapper",
+    "React - 1+ year",
+    "Angular - 1+ year",
+    "Jquery - 1+ year",
+    "Microsoft SQL Server - 3+ years"
+  ],
+  "courses": [
+    {
+      "company": "EPAM training center",
+      "title": ".Net development (internal \"laboratory\"",
+      "description": "Learning on example projects and implementing:",
+      "period": "September 2017 - November 2017",
+      "technologies": [
+        "Database course: learning ant training queries on MySQL on practic examples",
+        "JS native: example of creating simple version of game \"Plants VS Zombies\"",
+        ".Net project: Distributed project with Main-Slaves system, based on running using different domains for each instance"
+      ]
+    },
+    {
+      "company": "EPAM training center",
+      "title": ".Net development (external course)",
+      "period": "June 2017 - September 2017",
+      "description": "Learning next themes: ",
+      "technologies": [
+        ".Net platform",
+        "memory management",
+        "working with unmanaged resources",
+        "Language Integrated Query (LINQ)",
+        ".NET architectural components",
+        ".NET implementations",
+        ".NET runtimes",
+        "CLI & CTS & CLS",
+        "MSIL",
+        "JIT compilation types",
+        "Threads",
+        "Assemblies",
+        "Structs and classes",
+        "Async programming",
+        "Delegates and lambdas",
+        "Generics",
+        "Base Algoritms",
+        "Collections"
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "name": "Belarus State Technological University",
+      "period": "2015 - 2019 years",
+      "speciality": "Information Technologies Software Support",
+      "technologies": [
+        "Nodejs (1 year) &ndash; express, sequelize",
+        ".NET (2 years) &ndash; MVC, Web API, ADO.NET, Entity Framework, NInject, NUnit, MSTest",
+        "JavaScript (1 year)",
+        "React (1 year) &ndash; redux, thunk, sagas",
+        "VueJS (0.5 year &ndash; university)",
+        "Angular 5 (0.5 year &ndash;university) - rxjs",
+        "C++ (1 year)",
+        "MSSQL (2 years)",
+        "Oracle 12c (1 year)",
+        "MySql (1 year)",
+        "Git (2 years)",
+        "Java (1 year)"
+      ]
+    }
+  ],
+  "workExperience": [
+    {
+      "name": "Intetics",
+      "period": "February 2020 - Current moment",
+      "position": "FullStack .NET Developer",
+      "projects": [
+        {
+          "title": " PLAN system",
+          "description": "Short description: Students Disability Management and Reporting System for USA Schools",
+          "teamSize": "50+ total team size from company side",
+          "technologies": [
+            "ASP.NET MVC",
+            "Jquery",
+            "Native JS (building by webpack)",
+            "RDLC (Printouts)",
+            "SQL server",
+            "Kendo",
+            "less (for css)",
+            "ASP.NET API",
+            "Angular (redux, rxjs)",
+            "Kendo",
+            "scss (for css)",
+            "ORM: Dapper + NHibernate",
+            "CI+CD: Teamcity (configured by another team members)",
+            "Kanban -> LeSS (Large Scale Scrum)",
+            "Git"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Effective Soft",
+      "period": "June 2018 - February 2020",
+      "position": "FullStack .NET Developer ",
+      "projects": [
+        {
+          "title": "Banking project",
+          "description": "Lending Banking system",
+          "additionalDescription": "Migration old modules from Windows Forms to Web, adding new functionality to Web project",
+          "teamSize": "5+ devs + 3 qa from company side",
+          "technologies": [
+            "WEB:",
+            "ASP.NET MVC + API",
+            "Microservices",
+            "React (redux + sagas), Reactive forms",
+            "SQL server",
+            "Kendo",
+            "Entity Framework",
+            "WEB dedicated project:",
+            ".NET Core (API + MVC)",
+            "Entity Framework Core",
+            "Azure",
+            "Desktop integration and investigation:",
+            "Windows Forms",
+            "Delphi",
+            "Kendo",
+            "CI+CD: Teamcity",
+            "Scrum",
+            "Git"
+          ]
+        },
+        {
+          "title": "HR helper (internal product)",
+          "description": "Internal site to organize recruting process",
+          "teamSize": "2 devs + 1 qa + 1 designer",
+          "technologies": [
+            ".Net core",
+            "Entity Framework Core",
+            "Microsoft SQL server",
+            "React (redux + thunk)",
+            "Git"
+          ]
+        },
+        {
+          "title": "Banking System",
+          "description": "Migration VB6 project on Wisej framework (Windows forms at Web)",
+          "teamSize": "2 persons from company side + team on developer side",
+          "technologies": [
+            "Wisej (WinForms at web)",
+            ".Net (c#)",
+            "JS",
+            "CSS",
+            "VB6 (investigation)",
+            "TFS"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "EPAM Systems",
+      "period": "December 2017 - June 2018",
+      "position": "Sitecore Developer",
+
+      "projects": [
+        {
+          "title": "Sitecore mentoring program",
+          "description": "Investigation and training to use Sitecore CMS",
+          "teamSize": "1 DEV",
+          "technologies": [
+            "Sitecore CMS",
+            "ASP.NET Web",
+            "SQL server",
+            "Helix",
+            "Habitat",
+            "Angular",
+            "Git"
+          ]
+        }
+      ]
+    }
+  ]
+}

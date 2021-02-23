@@ -1,0 +1,21 @@
+* {
+  font-size: 14pt;
+}
+
+body {
+  margin: 30px;
+}
+
+.section-block {
+}
+
+.section-header {
+  font-weight: 20pt;
+  font-size: 20pt;
+  border-bottom: 2px;
+}
+
+.section-header-block {
+  width: 100%;
+  border-bottom-style: solid;
+}
