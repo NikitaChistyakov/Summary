@@ -6,6 +6,11 @@ body {
   margin: 30px;
 }
 
+ul {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
 .section-block {
 }
 
@@ -18,4 +23,5 @@ body {
 .section-header-block {
   width: 100%;
   border-bottom-style: solid;
+  border-bottom-color: gray;
 }

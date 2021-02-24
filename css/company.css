@@ -3,15 +3,18 @@
   padding-bottom: 8px;
 }
 
-.company-working-period {
-  font-size: 16pt;
-  float: right;
+.company-title {
+  font-size: 18pt;
+  font-weight: bold;
 }
 
-.company-title {
-  font-size: 16pt;
+.company-working-period {
+  font-size: 18pt;
+  float: right;
+  font-style: italic;
 }
 
 .company-position {
   font-size: 16pt;
+  padding-bottom: 8px;
 }

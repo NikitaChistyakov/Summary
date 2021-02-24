@@ -19,7 +19,7 @@
   "courses": [
     {
       "company": "EPAM training center",
-      "title": ".Net development (internal \"laboratory\"",
+      "title": ".Net development (internal \"laboratory\")",
       "description": "Learning on example projects and implementing:",
       "period": "September 2017 - November 2017",
       "technologies": [
@@ -61,12 +61,12 @@
       "period": "2015 - 2019 years",
       "speciality": "Information Technologies Software Support",
       "technologies": [
-        "Nodejs (1 year) &ndash; express, sequelize",
-        ".NET (2 years) &ndash; MVC, Web API, ADO.NET, Entity Framework, NInject, NUnit, MSTest",
+        "Nodejs (1 year); express, sequelize",
+        ".NET (2 years); MVC, Web API, ADO.NET, Entity Framework, NInject, NUnit, MSTest",
         "JavaScript (1 year)",
-        "React (1 year) &ndash; redux, thunk, sagas",
-        "VueJS (0.5 year &ndash; university)",
-        "Angular 5 (0.5 year &ndash;university) - rxjs",
+        "React (1 year); redux, thunk, sagas",
+        "VueJS (0.5 year; university)",
+        "Angular 5 (0.5 year;university) - rxjs",
         "C++ (1 year)",
         "MSSQL (2 years)",
         "Oracle 12c (1 year)",
@@ -84,7 +84,7 @@
       "projects": [
         {
           "title": " PLAN system",
-          "description": "Short description: Students Disability Management and Reporting System for USA Schools",
+          "description": "Students Disability Management and Reporting System for USA Schools",
           "teamSize": "50+ total team size from company side",
           "technologies": [
             "ASP.NET MVC",
@@ -115,7 +115,7 @@
           "title": "Banking project",
           "description": "Lending Banking system",
           "additionalDescription": "Migration old modules from Windows Forms to Web, adding new functionality to Web project",
-          "teamSize": "5+ devs + 3 qa from company side",
+          "teamSize": "5 devs + 3 qa from company side",
           "technologies": [
             "WEB:",
             "ASP.NET MVC + API",

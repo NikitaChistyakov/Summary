@@ -43,7 +43,8 @@ each company in workExperience
       span.company-working-period #{company.period}
     div.company-position #{company.position}
     each project in company.projects
-      div.project-title Project: #{project.title}
+      div.project-title-header Project: 
+        span.project-title #{project.title}
       div.project-description Description: #{project.description}
       div.project-additional-description #{project.additionalDescription}
       div.project-team-size Team: #{project.teamSize}
@@ -59,7 +60,7 @@ each company in workExperience
       span.company-title #{educationPlace.name}
       span.company-working-period #{educationPlace.period}
     span.company-position Speciality: #{educationPlace.speciality}
-    span.project-technologies-stack
+    div.project-technologies-stack
       | During learning at University, got work experience with next main
       | technologies:
     ul.project-technologies-stack-container

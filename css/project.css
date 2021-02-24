@@ -2,6 +2,9 @@
 }
 
 .project-title {
+  border-bottom-style: solid;
+  display: inline-block;
+  border-bottom-color: darkgray;
 }
 
 .project-description {
@@ -20,4 +23,8 @@
   margin-bottom: 4px;
 }
 .project-technologies-stack-item {
+}
+
+.project-title-header {
+  font-weight: bold;
 }
