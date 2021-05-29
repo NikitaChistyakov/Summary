@@ -77,13 +77,37 @@
     }
   ],
   "workExperience": [
-    {
-      "name": "Intetics",
-      "period": "February 2020 - Current moment",
+  {
+      "name": "OOO Ergalio (SiliconMint)",
+      "period": "April 2021 - Current Moment",
       "position": "FullStack .NET Developer",
       "projects": [
         {
-          "title": " PLAN system",
+          "title": "Merchant Advance Requests system",
+          "description": "System of registration, administration of MARs with integration to 3rd party services",
+          "teamSize": "2 Devs + 1 QA + 1 Lead",
+          "technologies": [
+            ".Net Core 5",
+            "Angular (RxJs)",
+            "Scss",
+            "MySQL server",
+            "ORM: Dapper + NHibernate",
+            "CI+CD: Gitlab CI",
+            "Kanban",
+            "AWS: Kubernates",
+            "Docker",
+            "Git"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Intetics",
+      "period": "February 2020 - April 2021",
+      "position": "FullStack .NET Developer",
+      "projects": [
+        {
+          "title": "PLAN system",
           "description": "Students Disability Management and Reporting System for USA Schools",
           "teamSize": "50+ total team size from company side",
           "technologies": [
