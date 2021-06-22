@@ -88,10 +88,10 @@
           "teamSize": "2 Devs + 1 QA + 1 Lead",
           "technologies": [
             ".Net Core 5",
+			"Microservices",
             "Angular (RxJs)",
-            "Scss",
             "MySQL server",
-            "ORM: Dapper + NHibernate",
+            "ORM: EF Core",
             "CI+CD: Gitlab CI",
             "Kanban",
             "AWS: Kubernates",
